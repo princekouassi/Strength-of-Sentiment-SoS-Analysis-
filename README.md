@@ -8,3 +8,6 @@ continously shown the significant insights it yeilds. However, I am not convince
 being used to its full potentional, or used at all in the non-academic areas of sentiment analysis.
 
 This project will largely be coded in HTML, CSS and JavaScript for now.
+
+## Want to Get Involved?
+Feel free to reach out to me if you wish to get involved in this project!
