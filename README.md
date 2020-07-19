@@ -1,2 +1,4 @@
 # Strength-of-Sentiment-SoS-Analysis-
-An attempt at gauging sentiment strength by including RT data!
+
+## Main Aim:
+Attempt at gauging sentiment strength by including RT data!
